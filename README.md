@@ -1,6 +1,6 @@
 # Week 1 - Day 2 Projects
 
-This day’s projects focus on understanding core Python concepts including data types, type casting, and variables. These foundational concepts are demonstrated through a variety of practical and beginner-friendly scripts.
+This day's projects focus on understanding core Python concepts including data types, type casting, and variables. These foundational concepts are demonstrated through a variety of practical and beginner-friendly scripts.
 
 ## Projects on datatypes in Python:
 
@@ -19,3 +19,7 @@ eligibility_verifier.py – Casts input types to evaluate user eligibility based
 library_catalog.py – Demonstrates variable usage for managing and organizing book records.  
 online_quiz.py – Uses variables to store questions, options, and scoring logic for a quiz app.  
 smart_parking.py – Illustrates how variables are used to track parking slot status and perform basic checks.
+
+## Day 2 Assignment
+
+assignment.py – A standalone assignment that includes a data_cleaner function. This function demonstrates string-to-integer conversion by removing leading zeros, helping to clean and standardize numeric input data.
