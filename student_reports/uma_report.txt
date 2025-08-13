@@ -1,0 +1,11 @@
+Report Card for uma
+------------------------------
+Math      : 85
+Science   : 90
+English   : 75
+Total       : 250
+Average     : 83.33
+Grade       : A
+Strength(s) : Science
+Weakness(es): English
+Prediction  : Good performance. Keep it up!
